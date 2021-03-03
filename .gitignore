@@ -1,0 +1,7 @@
+
+.DS_Store
+src/.idea/
+src/bin/
+src/obj/
+src/.vs/
+src/AppleVote.sln
