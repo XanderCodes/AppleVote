@@ -5,3 +5,4 @@ src/bin/
 src/obj/
 src/.vs/
 src/AppleVote.sln
+.gitattributes
